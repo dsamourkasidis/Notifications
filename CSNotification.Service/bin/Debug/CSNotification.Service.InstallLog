@@ -1,0 +1,26 @@
+﻿Installing assembly 'C:\Users\d.sam\Desktop\Workspace\CSNotification\CSNotification.Service\bin\Debug\CSNotification.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\d.sam\Desktop\Workspace\CSNotification\CSNotification.Service\bin\Debug\CSNotification.Service.InstallLog
+   assemblypath = C:\Users\d.sam\Desktop\Workspace\CSNotification\CSNotification.Service\bin\Debug\CSNotification.Service.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\d.sam\Desktop\Workspace\CSNotification\CSNotification.Service\bin\Debug\CSNotification.Service.exe assembly.
+Committing assembly 'C:\Users\d.sam\Desktop\Workspace\CSNotification\CSNotification.Service\bin\Debug\CSNotification.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\d.sam\Desktop\Workspace\CSNotification\CSNotification.Service\bin\Debug\CSNotification.Service.InstallLog
+   assemblypath = C:\Users\d.sam\Desktop\Workspace\CSNotification\CSNotification.Service\bin\Debug\CSNotification.Service.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\d.sam\Desktop\Workspace\CSNotification\CSNotification.Service\bin\Debug\CSNotification.Service.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\d.sam\Desktop\Workspace\CSNotification\CSNotification.Service\bin\Debug\CSNotification.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\d.sam\Desktop\Workspace\CSNotification\CSNotification.Service\bin\Debug\CSNotification.Service.InstallLog
+   assemblypath = C:\Users\d.sam\Desktop\Workspace\CSNotification\CSNotification.Service\bin\Debug\CSNotification.Service.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\d.sam\Desktop\Workspace\CSNotification\CSNotification.Service\bin\Debug\CSNotification.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\d.sam\Desktop\Workspace\CSNotification\CSNotification.Service\bin\Debug\CSNotification.Service.InstallLog
+   assemblypath = C:\Users\d.sam\Desktop\Workspace\CSNotification\CSNotification.Service\bin\Debug\CSNotification.Service.exe
